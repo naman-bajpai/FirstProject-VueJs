@@ -1,0 +1,21 @@
+body{
+  width: 100vw;
+  height: 100vh;
+  background: aliceblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+div{
+  text-align: center;
+}
+
+button{
+  padding: 10px 20px;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  background: #f1f1f1;
+  cursor: pointer;
+  transition: 0.3s;
+}
